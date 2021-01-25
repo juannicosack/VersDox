@@ -2,9 +2,9 @@
 
 _A python tool to dox a person_
 
-[Webpage](https://sites.google.com/loscharruas.com.ar/verselister/inicio)
-[Youtube](https://www.youtube.com/channel/UCC8GVhj4lKdEeq3EKF6WcLw)
-[Discord Server](https://discord.gg/B4pHummH)
+_[Webpage](https://sites.google.com/loscharruas.com.ar/verselister/inicio)_
+_[Youtube](https://www.youtube.com/channel/UCC8GVhj4lKdEeq3EKF6WcLw)_
+_[Discord Server](https://discord.gg/B4pHummH)_
 
 ## Comenzando 🚀
 
@@ -41,12 +41,12 @@ _Y se les ejecutara la tool_
 ##### Creditos
 
 _Rulo: Rulo#9224_
-_Por inspirarme a crear la tool ♥_
-_Su server de discord: [invite](https://discord.gg/rTHm4Ykxrd)_
+_ | Por inspirarme a crear la tool ♥_
+_ | Su server de discord: [invite](https://discord.gg/rTHm4Ykxrd)_
 
 Verselister: 🆅🅴🆁🆂🅴🅻🅸🆂🆃🅴🆁#2021
-_Creador :P_
-_Server de discord: [invite](https://discord.gg/VXp5fJjnfp)_
+_ | Creador :P_
+_ | Server de discord: [invite](https://discord.gg/VXp5fJjnfp)_
 
 ###### Extras
 
@@ -75,4 +75,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-####### Con ♥ por "Verselister"
+_Con ♥ por "Verselister"_
